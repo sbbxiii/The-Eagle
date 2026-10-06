@@ -6,7 +6,7 @@
 [![Firmware Support](https://img.shields.io/badge/Firmware-ArduPilot%20%7C%20Betaflight%20%7C%20INAV-green.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
-**The Eagle** is a custom, 4-layer high-reliability avionics flight controller (FC) designed around the **STMicroelectronics STM32F405RGT6** microcontroller. Engineered for autonomous Unmanned Aerial Vehicles (UAVs) and high-performance robotics platforms, the board integrates high-bandwidth IMU telemetry, multi-stage power conditioning, blackbox high-rate logging, and deterministic motor signaling into a standard **30.5 × 30.5 mm** form factor.
+**The Eagle** is a custom, 4-layer high-reliability avionics flight controller (FC) designed around the **STMicroelectronics STM32F405RGT6** microcontroller. Engineered for autonomous Unmanned Aerial Vehicles (UAVs) and high-performance robotics platforms, the board integrates high-bandwidth IMU telemetry, multi-stage power conditioning, blackbox high-rate logging, and deterministic motor signaling into a **40.0 × 40.0 mm** board footprint (featuring a standard **30.5 × 30.5 mm** M3 mounting pattern).
 
 ---
 
@@ -88,7 +88,7 @@
 
 ## PCB Stackup & Fabrication Rules
 
-* **Dimensions:** 36.00 mm × 36.00 mm outer footprint
+* **Dimensions:** 40.00 mm × 40.00 mm outer footprint
 * **Mounting Pattern:** Standard 30.50 mm × 30.50 mm grid with M3 clearance holes
 * **Layer Count:** 4 Layers (Standard 1.6 mm FR-4 Stackup):
   * **Layer 1 (Top):** Component placement & High-Speed Signal routing
