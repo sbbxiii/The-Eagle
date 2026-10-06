@@ -127,8 +127,8 @@ The hardware layout and pin allocation strictly adhere to the STM32 timer and pe
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/the-eagle.git
-   cd the-eagle/hardware
+   git clone https://github.com/sbbxiii/The-Eagle.git
+   cd The-Eagle/hardware
    ```
 2. Open `AeroHawk_FC.kicad_pro` using **KiCad 8.0 or newer** (tested on KiCad 10.0).
 3. View schematics in `Eeschema` or board layout in `Pcbnew`.
