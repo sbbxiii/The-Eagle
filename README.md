@@ -137,5 +137,6 @@ The hardware layout and pin allocation strictly adhere to the STM32 timer and pe
 
 ## Author & License
 
-Designed by **Osakwe**.  
+Designed by **Osakwe Nmesoma Chukwukadibia, Bsc Engineering Student University of Debrecen**.
+
 Licensed under the [MIT License](LICENSE).
