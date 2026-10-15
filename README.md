@@ -1,4 +1,4 @@
-# The Eagle — Custom STM32F405 Autonomous Flight Controller
+# The Eagle: Custom STM32F405 Autonomous Flight Controller
 
 [![KiCad Version](https://img.shields.io/badge/KiCad-10.0-blue.svg)](https://www.kicad.org/)
 [![Hardware Architecture](https://img.shields.io/badge/Architecture-ARM%20Cortex--M4F%20(168%20MHz)-orange.svg)](https://www.st.com/en/microcontrollers-microprocessors/stm32f405-415.html)
